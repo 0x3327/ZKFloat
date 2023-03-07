@@ -16,3 +16,6 @@ maximum number of significant digits.
 - Support for division operation
 - Removing explicit sign attribute when [Noir](https://noir-lang.org/) language adds support for signed values
 - More complex arithmetic operations
+
+## Applications
+The library is used in [SKProof](https://github.com/0x3327/skproof) python library for proving execution of ML models
