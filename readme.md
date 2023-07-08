@@ -8,12 +8,12 @@ The library implements `Float` structure representing floating point values, as 
 - `addFloats` - Addition of floats
 - `mulFloats` - Multiplication of floats
 - `subFloats` - Subtraction of floats
+- `divFloats` - Dividing of floats
 - `truncate` - Internal method for truncating mantissa values which overflows the 
 maximum number of significant digits.
 - `relu` - ReLU activation function, used in ANN models.
 
 ## Future work
-- Support for division operation
 - Removing explicit sign attribute when [Noir](https://noir-lang.org/) language adds support for signed values
 - More complex arithmetic operations
 
