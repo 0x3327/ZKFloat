@@ -76,6 +76,7 @@ fn truncate(num: Float) -> Float {
 
     res
 }
+
 // Multiplication of Float numbers
 fn mulFloats(x : Float, y : Float) -> Float {
     let mant = x.mantissa * y.mantissa;
